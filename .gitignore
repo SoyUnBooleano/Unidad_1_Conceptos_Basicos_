@@ -1,0 +1,11 @@
+# Archivos de compilación
+/bin/
+/build/
+
+# Configuración de Eclipse
+/.settings/
+/.project
+/.classpath
+
+# Archivos temporales
+*.log
