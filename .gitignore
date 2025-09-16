@@ -4,7 +4,6 @@
 
 # Configuración de Eclipse
 /.settings/
-/.project
 /.classpath
 
 # Archivos temporales
