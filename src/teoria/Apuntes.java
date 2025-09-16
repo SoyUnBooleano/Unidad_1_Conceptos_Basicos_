@@ -919,35 +919,7 @@ public class Apuntes {
 	 *		en el entero 2, que podrá ser asignado a una variable a sin problemas.
 	 *
 	 *		A este tipo de conversión se le llama estrechamiento, ya que fuerza la asignación de un tipo de dato en una
-	 *		variable de menor tamaño, eso sí, con perdida de información.
-	 *
-	 *		--- TEMA 1 TERMINADO ---
-	 *
-	 *		Hola hola hola
-	 *
-	 *		
-	 *		
-	 *
-	 *
-	 *
-	 *		
-	 *			
-	 *			
-	 *  
-	 *   
-	 *  
-	 *  	
-	 *  		
-	 *
-	 *  
-	 *  
-	 *  	
-	 *  
-	 *  	
-	 *  	
-	 *  
-	 *  
-	 * 
+	 *		variable de menor tamaño, eso sí, con perdida de información. * 
 	 * 
 	 */
 
